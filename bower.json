@@ -1,5 +1,17 @@
 {
   "name": "zl-ace-builds",
   "version": "0.1.0",
-  "main": "./dist/ace.js"
+  "main": "./dist/ace.js",
+  "homepage": "https://github.com/90TechSAS/ace-builds",
+  "authors": [
+    "Toolito <pietro57360@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
